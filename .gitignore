@@ -1,0 +1,41 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Build directories
+/build/
+bin/
+Debug/
+Release/
+
+# IDE files
+*.log
+*.user
+*.suo
+*.opensdf
+*.VC.db
+*.vscode/
+*.code-workspace
+
+# Others
+*.tmp
+*.swp
+*.bak
